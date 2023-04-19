@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">UTS Praktikum</string>
+
+    <string-array name="itemNama">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>B.J. Habibie</item>
+        <item>Abdurrahman Wahid</item>
+        <item>Susilo Bambang Yudoyono</item>
+        <item>Prabowo Subianto</item>
+        <item>Jendral Ahmad Yani</item>
+        <item>Jendral Gatot Nurmantyo</item>
+        <item>Marsekal Hadi Cahyanto</item>
+        <item>Jendral Andika Perkasa</item>
+        <item>Laksamana Yudo Margono</item>
+        <item>Jendral Lityo Sigit Prabowo</item>
+        <item>Ferdi Sambo</item>
+        <item>Hirohito</item>
+        <item>Adolf Hittler</item>
+        <item>John F Kennedy</item>
+        <item>Kim Jong-un</item>
+        <item>Vladimir Lenin</item>
+        <item>Josef Stalin</item>
+        <item>Winston Churchil</item>
+    </string-array>
+
+    <string-array name="itemImg">
+        <item>sukarno</item>
+        <item>suharo</item>
+        <item>habibi</item>
+        <item>wahid</item>
+        <item>sby</item>
+        <item>prabowo</item>
+        <item>yani</item>
+        <item>gatot</item>
+        <item>hadi</item>
+        <item>andika</item>
+        <item>yudo</item>
+        <item>sigit</item>
+        <item>sambo</item>
+        <item>hirohito</item>
+        <item>hitler</item>
+        <item>kennedy</item>
+        <item>kim</item>
+        <item>lenin</item>
+        <item>stalin</item>
+        <item>winston</item>
+    </string-array>
+
+    <string-array name="itemNim">
+        <item>210441100007</item>
+        <item>210441100014</item>
+        <item>210441100021</item>
+        <item>210441100035</item>
+        <item>210441100049</item>
+        <item>210441100056</item>
+        <item>210441100063</item>
+        <item>210441100070</item>
+        <item>210441100077</item>
+        <item>210441100084</item>
+        <item>210441100091</item>
+        <item>210441100098</item>
+        <item>210441100105</item>
+        <item>210441100112</item>
+        <item>210441100119</item>
+        <item>210441100126</item>
+        <item>210441100133</item>
+        <item>210441100140</item>
+        <item>210441100147</item>
+        <item>210441100154</item>
+    </string-array>
+
+    <string-array name="itemUsia">
+        <item>50 Tahun</item>
+        <item>45 Tahun</item>
+        <item>39 Tahun</item>
+        <item>53 Tahun</item>
+        <item>35 Tahun</item>
+        <item>40 Tahun</item>
+        <item>45 Tahun</item>
+        <item>40 Tahun</item>
+        <item>37 Tahun</item>
+        <item>30 Tahun</item>
+        <item>40 Tahun</item>
+        <item>25 Tahun</item>
+        <item>32 Tahun</item>
+        <item>40 Tahun</item>
+        <item>30 Tahun</item>
+        <item>25 Tahun</item>
+        <item>32 Tahun</item>
+        <item>39 Tahun</item>
+        <item>53 Tahun</item>
+        <item>32 Tahun</item>
+    </string-array>
+</resources>
